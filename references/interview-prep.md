@@ -27,7 +27,7 @@ Generate a mix of:
 - **Behavioral questions** likely for this stage/seniority (e.g., "Tell me about a time you had to influence without authority," "Describe a project that didn't go as planned").
 - **Role-specific questions** drawn directly from the JD's responsibilities and the company's likely priorities.
 
-For each question, give a short prep note — not a full scripted answer, but enough to jog the right memory and structure (e.g., "→ the GeneXpert launch story: emphasize the cross-functional scope and the regulatory timeline").
+For each question, give a short prep note — not a full scripted answer, but enough to jog the right memory and structure (e.g., "→ the platform launch story: emphasize the cross-functional scope and the regulatory timeline").
 
 ## 5. Honest gaps — and how to handle them if asked
 
